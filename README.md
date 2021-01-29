@@ -53,7 +53,7 @@ While some factors were predictably correlated it was nevertheless necessary to 
 ### Testing and Evaluation
 
 <p align="center">
-  <img width="760" height="500" src=images/allfeats.png>
+  <img width="860" height="500" src=images/allfeats.png>
 </p>
 
 Despite testing many features very, very few made it into the final model. This is largely due to problems they caused when using them to predict against hold out data. In the end, it was the same expected factors that made it into the final model along with a distance to Gas Works variable which also proved to be highly correlated with price.  
