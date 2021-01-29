@@ -29,11 +29,11 @@ We began our analysis by exploring the data set in general for outliers to explo
 </p>
 
 <p align="center">
-  <img width="460" height="300" src=images/Corr.png>
+  <img width="460" height="300" src=images/Grade.png>
 </p>
 
 <p align="center">
-  <img width="460" height="300" src=images/Grade.png>
+  <img width="460" height="300" src=images/Corr.png>
 </p>
 
 
