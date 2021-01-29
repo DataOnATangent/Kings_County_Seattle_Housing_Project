@@ -7,6 +7,10 @@ This project seeks to model housing prices in King County, Washington to predict
 
 ## Premise: 
 
+<p align="center">
+  <img width="460" height="300" src=images/seattle.jpeg>
+</p>
+
 Housing prices can be unpredictable but by looking at historical pricing and properly assessing which factors are driving prices we can begin to get a sense of where things are going. Using this information to help sellers and buyers alike make informed decisions about their homes. 
 
 ## Analysis Focus
@@ -48,11 +52,19 @@ While some factors were predictably correlated it was nevertheless necessary to 
 
 ### Testing and Evaluation
 
+<p align="center">
+  <img width="460" height="300" src=images/allfeats.png>
+</p>
+
 Despite testing many features very, very few made it into the final model. This is largely due to problems they caused when using them to predict against hold out data. In the end, it was the same expected factors that made it into the final model along with a distance to Gas Works variable which also proved to be highly correlated with price.  
 
 Using the wrapper method I was able to confirm that my chosen columns were very effective for predicting the price to within 141k with most columns ranging from 8% price correlation to 67% price correlation and accounting for 82% of the variation. 
 
 ## Conclusion 
+
+<p align="center">
+  <img width="460" height="300" src=images/house.jpg>
+</p>
 
 While housing markets fluctuate often, it seems many of the factors that affect pricing remain reasonably consistent with the location still being by far the biggest factor, followed by the size of the house itself, and condition in close succession. 
 
