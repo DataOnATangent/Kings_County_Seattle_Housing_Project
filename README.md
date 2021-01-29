@@ -57,6 +57,6 @@ Using the wrapper method I was able to confirm that my chosen columns were very 
 While housing markets fluctuate often, it seems many of the factors that affect pricing remain reasonably consistent with the location still being by far the biggest factor, followed by the size of the house itself, and condition in close succession. 
 
 ## Repository Structure  
-All working notebooks can be found in /working notebooks, project materials can be in /Project files.
+All working notebooks can be found in /working notebooks, project materials can be in /Project files, the images used above can be found in the imgaes folder, and copies of the my final notebook and other files can be found in /Former files. 
 
 
